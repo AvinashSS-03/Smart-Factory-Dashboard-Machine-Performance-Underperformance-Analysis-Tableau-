@@ -1,53 +1,75 @@
-🚀 Project Overview
 
-Downtime in factories directly impacts productivity and efficiency.
-This dashboard helps in comparing multiple factories and identifying the one with the maximum downtime, enabling faster decision-making and operational improvements.
+# 📊 Smart Factory Dashboard: Downtime Analysis
 
-🎯 Key Objectives
-Identify the factory with the highest downtime
+This project focuses on analyzing factory operations to identify **which factory has the highest downtime** using an interactive dashboard built in Tableau.
 
-Compare downtime across multiple factories
+---
 
-Analyze machine status (Healthy vs Unhealthy)
+## 🔗 Live Dashboard
+[View Interactive Dashboard] https://public.tableau.com/app/profile/avinash.ss/viz/SMART_FACTORY/Dashboard1?publish=yes
 
-Provide insights to reduce operational inefficiencies
+---
 
-📌 Features
+## 📊 Dashboard Preview
+![Dashboard](factory.png)
 
-Interactive dashboard with factory-wise comparison
+---
 
-Clear visualization of total downtime per factory
+## 🚀 Project Overview
+In industrial environments, downtime directly impacts productivity and efficiency.  
+This dashboard provides a clear comparison of multiple factories and highlights the ones with the highest downtime, enabling faster and data-driven decision-making.
 
-Drill-down analysis to view machine-level performance
+---
 
-Easy identification of critical problem areas
+## 🎯 Objectives
+- Identify the factory with the highest downtime  
+- Compare downtime across multiple factories  
+- Analyze machine health (Healthy vs Unhealthy)  
+- Improve operational efficiency through insights  
 
-🛠️ Tools & Technologies
+---
 
-Tableau – Data visualization
+## 📌 Features
+- Factory-wise downtime comparison  
+- Device-level downtime analysis  
+- Interactive and easy-to-understand visuals  
+- Clear identification of underperforming factories  
 
-Microsoft Excel – Data cleaning & preprocessing
+---
 
-📈 Key Insights
+## 🛠️ Tools & Technologies
+- Tableau (Data Visualization)  
+- Excel / JSON (Data Source)  
 
-Identified the factory with the highest downtime
+---
 
-Highlighted factories with frequent machine failures
+## 📂 Project Files
+- `Smart Factory Dashboard.twbx` → Tableau packaged workbook  
+- `factory.png` → Dashboard preview image  
 
-Provided actionable insights to improve efficiency and reduce downtime
+---
 
-🧠 What I Learned
+## 📈 Key Insights
+- Identified the factory with the highest downtime  
+- Highlighted patterns in machine failures  
+- Enabled quick identification of performance issues  
 
-Building comparative dashboards in Tableau
+---
 
-Analyzing operational data to extract business insights
+## 🧠 What I Learned
+- Building interactive dashboards in Tableau  
+- Converting live data to extract for publishing  
+- Transforming raw data into meaningful insights  
+- Presenting data effectively for decision-making  
 
-Presenting findings in a clear and impactful way
+---
 
-🔗 Future Improvements
+## 🔮 Future Improvements
+- Real-time data integration  
+- Predictive maintenance using machine learning  
+- Advanced KPI tracking  
 
-Real-time downtime tracking
+---
 
-Predictive maintenance using machine learning
-
-Automated alerts for high downtime
+## 👨‍💻 Author
+**Avinash SS**
